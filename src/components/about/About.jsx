@@ -1,8 +1,9 @@
-import React from "react";
 import "./about.css";
-import ME from "../../assets/me-about.png";
+
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
+import ME from "../../assets/me-about.png";
+import React from "react";
 import { VscFolderLibrary } from "react-icons/vsc";
 
 const About = () => {
@@ -36,7 +37,13 @@ const About = () => {
 							<small>6+ completed</small>
 						</article>
 					</div>
-					<p>content as to be updated soon</p>
+					<p>
+						Seasoned and Independent Front End Developer with 4 years of
+						experience in blending the art of design with skill of programming
+						to deliver an immersive and engaging user experience through
+						efficient website development,proactive feature optimization,and
+						relentless debugging
+					</p>
 					<a href="#contact" className="btn-btn-primary"></a>
 				</div>
 			</div>
