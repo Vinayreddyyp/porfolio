@@ -22,7 +22,7 @@ const About = () => {
 						<article className="about__card">
 							<FiUsers className="about__icon" />
 							<h5>Experience</h5>
-							<small>4+ Years of WOrking</small>
+							<small>6+ Years of Working</small>
 						</article>
 
 						<article className="about__card">
@@ -38,7 +38,7 @@ const About = () => {
 						</article>
 					</div>
 					<p>
-						Seasoned and Independent Front End Developer with 4 years of
+						Seasoned and Independent Front End Developer with 6 plus years of
 						experience in blending the art of design with skill of programming
 						to deliver an immersive and engaging user experience through
 						efficient website development,proactive feature optimization,and
